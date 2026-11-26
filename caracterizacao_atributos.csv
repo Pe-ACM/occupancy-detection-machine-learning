@@ -1,0 +1,8 @@
+Atributo,Tipo,Intervalo/valores,Faltantes
+date,data/hora,2015-02-02 14:19:00 a 2015-02-18 09:19:00,0
+Temperature,numérico contínuo,19 a 24.4083,0
+Humidity,numérico contínuo,16.745 a 39.5,0
+Light,numérico contínuo,0 a 1697.25,0
+CO2,numérico contínuo,412.75 a 2076.5,0
+HumidityRatio,numérico contínuo,0.00267413 a 0.00647601,0
+Occupancy,binário,"0 (não ocupado), 1 (ocupado)",0
